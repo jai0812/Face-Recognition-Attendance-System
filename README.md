@@ -77,3 +77,16 @@ This project is an AI-powered attendance system that uses face recognition to au
 ---
 
 This collection of technologies ensures that the Attendance Management System is efficient, reliable, and scalable, while remaining accessible for future development and enhancements.
+
+
+
+![Screenshot 2025-05-26 064330](https://github.com/user-attachments/assets/7c202ac1-2c85-4b38-b65f-7ade9c537d95)
+
+![Screenshot 2025-05-26 064241](https://github.com/user-attachments/assets/25a304e6-dd4c-43a4-8635-af659a61082a)
+
+![Screenshot 2025-05-26 064443](https://github.com/user-attachments/assets/463c20ce-871c-432f-b80f-6b591a1f435e)
+![Screenshot 2025-05-26 065419](https://github.com/user-attachments/assets/ec86cdbd-c98c-4e89-92fe-c30e5679e090)
+![Screenshot 2025-05-26 065633](https://github.com/user-attachments/assets/552f37d9-d070-47ef-a3fc-c3f6cfca1e4a)
+![Screenshot 2025-06-09 024359](https://github.com/user-attachments/assets/48a32a67-899a-43eb-9707-d51dbd48ce9c)
+
+![Screenshot 2025-06-09 024435](https://github.com/user-attachments/assets/d467a98d-1313-4edc-9e07-2074075ee6dd)
